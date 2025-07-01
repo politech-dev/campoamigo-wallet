@@ -1,6 +1,6 @@
-# AQUA Wallet
+# CampoAmigo
 
-AQUA is a free, open-source wallet for iOS and Android.
+CampoAmigo is a free, open-source wallet for iOS and Android.
 
 ## Resources
 
@@ -11,5 +11,5 @@ AQUA is a free, open-source wallet for iOS and Android.
 
 ## Development
 
-1. Clone this repo (`git clone https://github.com/AquaWallet/aqua-wallet`)
+1. Clone this repo (`https://github.com/politech-dev/campoamigo-wallet`)
 2. Follow instructions in [DEVELOPMENT.md](https://github.com/AquaWallet/aqua-wallet/blob/main/DEVELOPMENT.md)
